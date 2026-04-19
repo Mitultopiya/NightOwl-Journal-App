@@ -1,11 +1,3 @@
-<p align="center">
-  <img 
-    src="https://res.cloudinary.com/dqumagamd/image/upload/v1764782887/icon_t5rjyt.png" 
-    alt="NightOwl Logo" 
-    width="160"
-    style="background:#ffffff; padding:15px; border-radius:12px; box-shadow:0 0 10px rgba(0,0,0,0.15);" 
-  />
-</p>
 
 <h1 align="center">🦉 NIGHTOWL — Minimal & Modern Journal Web App</h1>
 
@@ -13,11 +5,6 @@
 A beautiful, distraction-free journal application designed for night thinkers.  
 Built using Next.js, Clerk, Prisma ORM, TailwindCSS & Arcjet Security.
 </p>
-
----
-
-## 🌐 Live Demo  
-✨ Explore the app here: https://nightowl-journal.vercel.app/
 
 ---
 
@@ -82,7 +69,7 @@ Built using Next.js, Clerk, Prisma ORM, TailwindCSS & Arcjet Security.
 
 ### **1️⃣ Clone the repository**
 ```bash
-git clone https://github.com/krishnapschauhan/nightowl-journal-app.git
+git clone https://github.com/Mitultopiya/NightOwl-Journal-App.git
 cd nightowl-journal-app
 ```
 
@@ -138,5 +125,3 @@ This project is licensed under the **MIT License**.
 <p align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGYzYXMwamxkZnQ5ZTE1YjZyN3I2MTR1azlodG40dnkwNHFsNXo4dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ui1hpJSyBDWlG/giphy.gif" width="300" />
 </p>
-
-<p align="center">✨ Built with passion by Krishna ✨</p>
